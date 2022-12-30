@@ -1,7 +1,7 @@
-Hi 👋 My name is Diego Niemeyer
+OI 👋 Meu nome é Diego Niemeyer
 ==========================
 
-Front End Developer
+Desenvolvedor Front End
 -----------------------------
 
 Sou desenvolvedor de 35 anos. Adoro codificar e descobrir como resolver problemas usando tecnologia. Meu foco principal é o desenvolvimento front-end, fazendo aplicações para impactar a vida de milhares de usuários.
