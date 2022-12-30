@@ -33,10 +33,6 @@ I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign
 
 -----------------------------------------------------
 <br>
-
-### Socials
-
-<p align="left"><a href="https://www.github.com/dniemeryers" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diego-niemeyer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <br>
 
 ## 📈  Minhas estatísticas 
@@ -49,5 +45,8 @@ I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign
 
 ##  Meus contatos
   <a href="mailto:dniemeyers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
+  
   <a href="https://www.linkedin.com/in/diego-niemeyer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
+   <a href=" https://web.whatsapp.com/send?phone=5521974112744" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
