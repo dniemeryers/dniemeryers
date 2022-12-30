@@ -4,17 +4,18 @@ Hi 👋 My name is Diego Niemeyer
 Front End Developer
 -----------------------------
 
-I'm a 35 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
+Sou desenvolvedor de 35 anos. Adoro codificar e descobrir como resolver problemas usando tecnologia. Meu foco principal é o desenvolvimento front-end, fazendo aplicações para impactar a vida de milhares de usuários.
 
 Sou aluno do 2º período de Analise de Sistemas pela Anhanguera Educacional.
 
-I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign-up?ref=C3R3MWCJ2L).
+Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/sign-up?ref=C3R3MWCJ2L ).
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [dniemeyers@gmail.com](mailto:dniemeyers@gmail.com)
-* 🧠  I'm learning Advanced Javascript, TypeScript and React JS
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+🌍 Moro no Rio de Janeiro, Brasil
+✉️ Você pode entrar em contato comigo em dniemeyers@gmail.com
+🧠 Estou aprendendo Javascript Avançado, TypeScript e React JS
+🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+⚡ Amo esportes e meu preferido é Crossfit
+
 ----------------------------
 <br>
 
@@ -52,3 +53,4 @@ I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign
   
    <a href="https://wa.me/5521974112744/" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" align="center" ></a>
 </p>
+
