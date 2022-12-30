@@ -10,11 +10,11 @@ Sou aluno do 2º período de Analise de Sistemas pela Anhanguera Educacional.
 
 Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/sign-up?ref=C3R3MWCJ2L ).
 
-🌍 Moro no Rio de Janeiro, Brasil
-✉️ Você pode entrar em contato comigo em dniemeyers@gmail.com
-🧠 Estou aprendendo Javascript Avançado, TypeScript e React JS
-🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
-⚡ Amo esportes e meu preferido é Crossfit
+* 🌍 Moro no Rio de Janeiro, Brasil
+* ✉️ Você pode entrar em contato comigo em dniemeyers@gmail.com
+* 🧠 Estou aprendendo Javascript Avançado, TypeScript e React JS
+* 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+* ⚡ Amo esportes e meu preferido é Crossfit
 
 ----------------------------
 <br>
