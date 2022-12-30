@@ -15,7 +15,8 @@ I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign
 * 🧠  I'm learning Advanced Javascript, TypeScript and React JS
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
-
+----------------------------
+<br>
 
 ### ✔️ Skill
 
@@ -29,13 +30,15 @@ I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign
   <img align="center" height="50" width="50" target="_blank" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
 
 </p>
+-----------------------------------------------------
+<br>
 
 ### Socials
 
 <p align="left"><a href="https://www.github.com/dniemeryers" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diego-niemeyer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <br>
 
-## : 📈 chart_with_upwards_trend : Minhas estatísticas 
+## 📈  Minhas estatísticas 
 
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/dniemeryers"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=dniemeryers&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="dniemeryers GitHub stats" /></a>
