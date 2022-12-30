@@ -30,6 +30,7 @@ I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign
   <img align="center" height="50" width="50" target="_blank" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
 
 </p>
+
 -----------------------------------------------------
 <br>
 
