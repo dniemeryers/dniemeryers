@@ -44,9 +44,7 @@ I am also a student at DIO.ME, a Software Engineering school(https://dio.me/sign
  
 
 ##  Meus contatos
-  <a href="mailto:dniemeyers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
-  
-  <a href="https://www.linkedin.com/in/diego-niemeyer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
+  <a href="mailto:dniemeyers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>  
+  <a href="https://www.linkedin.com/in/diego-niemeyer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
    <a href=" https://web.whatsapp.com/send?phone=5521974112744" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
