@@ -38,7 +38,7 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
 
 ## 📈  Minhas estatísticas 
 
-<b>My GitHub Stats</b>
+
 <a href="http://www.github.com/dniemeryers"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=dniemeryers&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="dniemeryers GitHub stats" /></a>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dniemeryers&layout=compact&langs_count=7&theme=react"/>
