@@ -4,7 +4,7 @@ OI 👋 Meu nome é Diego Niemeyer
 Desenvolvedor Front End
 -----------------------------
 
-Sou desenvolvedor de 35 anos. Adoro codificar e descobrir como resolver problemas usando tecnologia. Meu foco principal é o desenvolvimento front-end, fazendo aplicações para impactar a vida de milhares de usuários.
+Sou desenvolvedor de 35 anos. Adoro codificar e descobrir como resolver problemas usando tecnologia. Meu foco principal é o desenvolvimento front-end, quero fazer aplicações para impactar a vida de milhares de usuários.
 
 Sou aluno do 2º período de Analise de Sistemas pela Anhanguera Educacional.
 
