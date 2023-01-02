@@ -43,15 +43,16 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dniemeryers&layout=compact&langs_count=7&theme=react"/>
  
- ![Snake animation](https://github.com/dniemeryers/dniemeryers/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ##  Meus contatos
 
 <P align="left">
-  <a href="mailto:dniemeyers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" target=" _blank"></a>  
+  <a href="mailto:dniemeyers@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>  
 
-  <a href="https://www.linkedin.com/in/diego-niemeyer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" width="100" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/diego-niemeyer/" target="_blank"><img  align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" target="_blank"></a>   
   
-   <a href="https://wa.me/5521974112744/" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" align="center" ></a>
+   <a href="https://wa.me/5521974112744/" target="_blank"><img  align="center" src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
+
 </p>
 
