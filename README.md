@@ -43,7 +43,7 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dniemeryers&layout=compact&langs_count=7&theme=react"/>
  
- ![Snake animation](https://github.com/dniemeryers/dniemeryers/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/dniemeryers/blob/output/github-contribution-grid-snake.svg)
 
 ##  Meus contatos
 
