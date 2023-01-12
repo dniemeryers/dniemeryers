@@ -54,5 +54,10 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
   
  * <a href="https://wa.me/5521974112744/" target="_blank"><img  align="center" src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
 
+ <h3><p align="center">Total de Visitas no Perfil</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/mcsnsx/count.svg"/>
+</p>
+
 
 
