@@ -17,8 +17,6 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
 * ⚡ Amo esportes e meu preferido é Crossfit
 
 ----------------------------
-<br>
-
 
 ## 📈  Minhas estatísticas 
 
@@ -36,7 +34,8 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
   <img align="center" alt="GitHub" height="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
   
-
+<br>
+<br>
  
  
 
