@@ -48,7 +48,7 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
 ##  Meus contatos
 
   
-  <a href="mailto:dniemeyers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>  
+  <a href="mailto:dniemeyers@gmail.com"target=" _blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>  
 
   <a href="https://www.linkedin.com/in/diego-niemeyer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" target="_blank"></a>   
   
