@@ -33,6 +33,7 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
   <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   <img align="center" alt="GitHub" height="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
+  <img align="center" alt="Styled-component" height="40" width="50" src="https://user-images.githubusercontent.com/108142878/193302675-d7113fb4-a808-49f5-9465-ccf18cf31cfb.png ">
   
 <br>
 <br>
