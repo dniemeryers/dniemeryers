@@ -30,7 +30,7 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="VScode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code. png" />
+  <img align="center" alt="VScode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   <img align="center" alt="GitHub" height="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
