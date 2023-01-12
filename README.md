@@ -19,29 +19,24 @@ Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/s
 ----------------------------
 <br>
 
-### ✔️ Skill
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="50" width="50" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50" width="50" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50" width="50" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"height="50" width="50" alt="React" /></a>
-
-<img align="center" height="50" width="50" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" height="50" width="50" target="_blank" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
-
-</p>
-
------------------------------------------------------
-<br>
-<br>
 
 ## 📈  Minhas estatísticas 
 
 
-<a href="http://www.github.com/dniemeryers"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=dniemeryers&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="dniemeryers GitHub stats" /></a>
+<a href="http://www.github.com/dniemeryers"><img height="180em" src="https://github-readme-stats-peguimasid.vercel.app/api?username=dniemeryers&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="dniemeryers GitHub stats" /></a>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dniemeryers&layout=compact&langs_count=7&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dniemeryers&layout=compact&langs_count=7&theme=react" />
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="VScode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code. png" />
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img align="center" alt="GitHub" height="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
+  
+
  
  
 
