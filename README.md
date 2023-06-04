@@ -1,7 +1,7 @@
 Diego Niemeyer
 ==========================
 
-Desenvolvedor Front End
+| Desenvolvedor Front-End | React.js |
 -----------------------------
 
 Sou desenvolvedor Front-End. minha meta é ajudar empresas a alcançar seus objetivos através do desenvolvimento tecnológico, fornecendo soluções personalizadas e de alta qualidade para seus problemas.
