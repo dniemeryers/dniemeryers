@@ -7,6 +7,7 @@ Desenvolvedor Front End
 Sou desenvolvedor Front-End. minha meta é ajudar empresas a alcançar seus objetivos através do desenvolvimento tecnológico, fornecendo soluções personalizadas e de alta qualidade para seus problemas.
 
 Por meio do uso de tecnologias inovadoras, metodologias ágeis e boas práticas de desenvolvimento, garanto que meu trabalho será de alta qualidade. Além disso, acredito que a transparência, comunicação e a colaboração são fundamentais para o sucesso de qualquer projeto, mantendo sempre uma comunicação clara e efetiva com todos no processo de desenvolvimento.
+
 Sou aluno do 2º período de Analise de Sistemas pela Anhanguera Educacional.
 
 
