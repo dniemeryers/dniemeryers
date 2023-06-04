@@ -1,19 +1,19 @@
-OI 👋 Meu nome é Diego Niemeyer
+Diego Niemeyer
 ==========================
 
 Desenvolvedor Front End
 -----------------------------
 
-Sou desenvolvedor de 35 anos. Adoro codificar e descobrir como resolver problemas usando tecnologia. Meu foco principal é o desenvolvimento front-end, quero fazer aplicações para impactar a vida de milhares de usuários.
+Sou desenvolvedor Front-End. minha meta é ajudar empresas a alcançar seus objetivos através do desenvolvimento tecnológico, fornecendo soluções personalizadas e de alta qualidade para seus problemas.
 
+Por meio do uso de tecnologias inovadoras, metodologias ágeis e boas práticas de desenvolvimento, garanto que meu trabalho será de alta qualidade. Além disso, acredito que a transparência, comunicação e a colaboração são fundamentais para o sucesso de qualquer projeto, mantendo sempre uma comunicação clara e efetiva com todos no processo de desenvolvimento.
 Sou aluno do 2º período de Analise de Sistemas pela Anhanguera Educacional.
 
-Também sou aluno da DIO.ME, escola de Engenharia de Software ( https://dio.me/sign-up?ref=C3R3MWCJ2L ).
 
-* 🌍 Moro no Rio de Janeiro, Brasil
-* ✉️ Você pode entrar em contato comigo em dniemeyers@gmail.com
-* 🧠 Estou aprendendo Javascript Avançado, TypeScript e React JS
-* 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+* 🌍 Moro no Rio de Janeiro, Brasil.
+* ✉️ Você pode entrar em contato comigo em dniemeyers@gmail.com.
+* 🧠 Com Boa base em React, estou me aprofundando em Angular 15.
+* 🤝 Estou aberto a colaborar em projetos de alto impacto e soluç~oes inovadoras em empresas e na vida das pessoas.
 
 ----------------------------
 
